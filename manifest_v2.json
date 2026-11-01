@@ -1,0 +1,225 @@
+{
+  "item": {
+    "id": "com.komoridev.angrybirds",
+    "restype": "quick_app",
+    "name": "愤怒的小鸟",
+    "description": "## 愤怒的小鸟\n\n> 致敬 Rovio《Angry Birds》\n\n在手腕上玩弹弓物理闯关游戏。按住屏幕任意位置向后拖，拉开弹弓，松手发射；飞行途中再点一下，释放小鸟的专属技能，把猪猪藏身的木头、冰块和石头堡垒一网打尽。\n\n**玩法**\n- 3 章 24 关：猪猪岛（草地）、冰雪山谷、落日海岸，每章 8 关，按星级逐关解锁，每关记录 1 / 2 / 3 星最好成绩。\n- 6 种小鸟：红色冲撞、黄色加速（克木头）、蓝色一分为三（克冰块）、黑色爆炸（克石头）、白色投下炸弹蛋、体型更大更重的大红鸟。\n- 多种材料：木头、冰块、石头、受撞击会爆炸的 TNT 和能滚动的石球；猪猪有小、中、大、头盔、国王多种，受伤后会换成鼻青脸肿的模样。\n- 新小鸟和新机制第一次出现时会弹出介绍卡；通关时剩下的小鸟，每只额外奖励 10000 分。\n- 拉弓时有抛物线辅助点，可在「关于」页关闭；也可以关闭震动反馈、清空闯关进度。\n- 随时点左上角暂停：继续、重开或回到选关。",
+    "preview": [
+      "media/cover.png",
+      "media/view.png",
+      "media/screenshot1.png",
+      "media/screenshot2.png",
+      "media/screenshot3.png",
+      "media/screenshot4.png",
+      "media/screenshot5.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/cover.png",
+    "author": [
+      {
+        "name": "KomoriDev",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官群",
+      "url": "https://qm.qq.com/q/T7arUpeve2",
+      "icon": "chat-circle"
+    },
+    {
+      "title": "商品链接",
+      "url": "https://afdian.com/item/d6c41a82d55411f184b3525400c8052f",
+      "icon": "link-simple"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.angrybirds.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🔖 Hello AstroBox"
+        }
+      ]
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.angrybirds.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🔖 Hello AstroBox"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.angrybirds.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🔖 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.angrybirds.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🔖 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.angrybirds.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🔖 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.angrybirds.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🔖 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.angrybirds.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🔖 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.angrybirds.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🔖 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.angrybirds.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🔖 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.angrybirds.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🔖 Hello AstroBox"
+        }
+      ]
+    },
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.angrybirds.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🔖 Hello AstroBox"
+        }
+      ]
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.angrybirds.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🔖 Hello AstroBox"
+        }
+      ]
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.angrybirds.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🔖 Hello AstroBox"
+        }
+      ]
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.angrybirds.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🔖 Hello AstroBox"
+        }
+      ]
+    },
+    "xmws541": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.angrybirds.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🔖 Hello AstroBox"
+        }
+      ]
+    },
+    "xmws5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.angrybirds.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🔖 Hello AstroBox"
+        }
+      ]
+    }
+  },
+  "ext": {
+    "bundledResources": {
+      "required": [
+        {
+          "type": "plugin",
+          "id": "Kovela"
+        }
+      ]
+    }
+  }
+}
